@@ -8,7 +8,7 @@ import org.apache.spark.streaming.StreamingContext._
 import java.util.Calendar 
 import java.lang.Math
 
-/** My code, trying to create a sessionization engine over twitter **/
+/** Sessionization engine over twitter **/
 
 
 object sessionization_over_twitter {
